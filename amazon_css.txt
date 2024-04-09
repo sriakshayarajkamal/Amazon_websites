@@ -1,0 +1,59 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.fav-store-bg-container {
+    background-color: #894bca;
+}
+
+.fav-store-top-image {
+    height: 185px;
+    width: 185px;
+}
+
+.fav-store-heading {
+    color: #ffffff;
+    font-weight: bold;
+    font-family: "bree-serif";
+    padding: 30px;
+    font-size: 24px;
+}
+
+.fav-store-card-container {
+    background-color: #ffffff;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+
+.fav-store-card-heading {
+    color: #f780c3;
+    font-family: "bree-serif";
+    font-weight: bold;
+    padding: 20px;
+    font-size: 20px;
+}
+
+.fav-store-card-images {
+    height: 60px;
+    width: 60px;
+}
+
+.fav-store-card-padding {
+    padding: 10px;
+    margin: 10px;
+}
+
+.fav-store-name {
+    color: black;
+    font-family: "roboto";
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.fav-store-card-text-container {
+    padding-left: 10px;
+}
+
+.fav-store-description {
+    color: #7b8794;
+    font-family: "bree-serif";
+    font-size: 14px;
+}
